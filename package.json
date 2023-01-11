@@ -23,7 +23,7 @@
     "http-assert": "^1.4.1",
     "http-errors": "^1.8.0",
     "is-empty": "^1.2.0",
-    "knex": "^0.21.2",
+    "knex": "^2.4.0",
     "lodash": "^4.17.19",
     "morgan": "^1.10.0",
     "mssql": "^6.2.0",
